@@ -1,0 +1,25 @@
+body {
+  background-color: #FC9804;
+}
+h1 {
+  margin:70px 20px;
+}
+h1 {
+  color:#0000cc;
+  font-family:times new roman;
+  font-size:25px;
+  text-align:center;
+  text-decoration:underline;
+}
+p {
+  color:#555555;
+  font-family:verdana;
+  text-align:justify;
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+
+}
