@@ -1,21 +1,23 @@
 body {
-  background-color: YellowGreen;
+
   font-family:Comic Sans MS; 
+  background: DarkGreen;
 }
 
-h1 {
-  margin:70px 20px;
-  color:Navy;
-  font-family: Times New Roman;
-  font-family:cursive;
-  font-size:28px;
-  text-align:center;
-  text-decoration:underline ;
+h1{
+    font-size: 38px;
+    text-align:center;
+    font-style: italic;
+    color: SeaGreen;
+    padding: 10px;
+    text-shadow: -1px -1px 0px #101010, 1px 1px 0px #505050;
+    margin:70px 20px;
 }
 p {
-  color:Indigo;
+  color:Grey;
   font-family:Times New Roman;
   text-align:justify;
+  font-size: 18px;
   
 
 }
@@ -24,7 +26,7 @@ a:link {
   text-decoration: none;color: green;
 }
 a{ 
-color:red; 
+color:DarkGoldenrod; 
 } 
 .enmarcada{
 border:5px none; 
@@ -34,7 +36,11 @@ margin:5px;
 }
 img { 
   float: left; 
+  width:250px;
+  height:250px;
 }
 address{
 color:LightGrey;
 }
+fieldset {
+border: 2px solid DarkOliveGreen;}
