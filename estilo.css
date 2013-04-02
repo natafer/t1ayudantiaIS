@@ -36,6 +36,8 @@ margin:5px;
 }
 img { 
   float: left; 
+  width:250px;
+  height:250px;
 }
 address{
 color:LightGrey;
